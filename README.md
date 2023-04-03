@@ -1,7 +1,8 @@
 # 電算テキスト Python版
-電算テキストのPython版です。
-分かりやすさを優先しているため、正確な説明ではない場合があります。
+電算テキストのPython版です。  
+分かりやすさを優先しているため、正確な説明ではない場合があります。  
 [C言語版](https://github.com/knct-densan/densantext)
+
 ## 目次
 [1. はじめに](https://github.com/knct-densan/densantext-python/blob/main/Chapter1.md)  
 [2. 変数と標準入出力](https://github.com/knct-densan/densantext-python/blob/main/Chapter2.md)  
