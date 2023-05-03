@@ -119,10 +119,10 @@ print(mylist)
 
 例14\. `*`演算子の使用例
 ```py
-list = ['A', 'B']
-newlist = list * 3
-print(newlist)
-# 実行結果 ['A', 'B', 'A', 'B', 'A', 'B', 'A', 'B']
+a = ['A', 'B']
+b = list * 3
+print(b)
+# 実行結果 ['A', 'B', 'A', 'B', 'A', 'B']
 ```
 
 # 演習問題
